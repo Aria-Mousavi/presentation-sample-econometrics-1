@@ -7,6 +7,6 @@ I created and presented these slides for the **Development Economics** course ta
 ### Presentation Approach
 
 - Turning complex data and statistical results into clear, decision-relevant insights  
-- Presenting results in a structured, accessible way for both technical and non-technical audiences  
+- Presenting results in a structured, understandable way for both technical and non-technical audiences  
 - Extracting the key messages from detailed tables  
 - Keeping presentations focused, visual, and easy to follow  
