@@ -4,6 +4,8 @@
 This folder contains a concise sample of my presentation work, focusing on the empirical results from the paper *“What Do Market-Access Subsidies Do? Experimental Evidence from Tunisia.”*  
 I created and presented these slides for the **Development Economics** course taught by **Prof. Adam Szeidl** at Central European University.
 
+**View the presentation (PDF):** [Presentation-dev.pdf](Presentation-dev.pdf)
+
 ### Presentation Approach
 
 - Turning complex data and statistical results into clear, decision-relevant insights  
